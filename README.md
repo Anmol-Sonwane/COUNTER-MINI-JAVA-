@@ -2,5 +2,7 @@
 
 VISIT THE HOSTED LINK: https://anmol-sonwane.github.io/COUNTER-MINI-JAVA-/
 
-![image](https://user-images.githubusercontent.com/84391825/128659678-dd518b9d-dfab-48a5-acdb-a637be90b1e7.png)
+
+![image](https://user-images.githubusercontent.com/84391825/128659726-867e58a9-04e3-4efb-a1f8-846f4a228f10.png)
+
 
